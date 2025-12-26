@@ -1,4 +1,8 @@
 # Active Directory Home Lab (Virtual Box)
+
+This is the documentation for my home lab project, where I built a basic Active Directory environment using Oracle VirtualBox.
+The goal was to get hands on experience with Windows Server, Active Directory, DNS, Powershell, and Virtualization to align with skills expected with entry level IT roles.
+
 <h2>Lab Environment</h2>
 
 Host Machine
